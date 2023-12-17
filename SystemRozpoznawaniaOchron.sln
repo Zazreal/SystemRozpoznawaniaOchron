@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SystemRozpoznawaniaOchron", "Projzesp\SystemRozpoznawaniaOchron.pyproj", "{95862F72-326D-47D2-9A16-119ADE50550A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95862F72-326D-47D2-9A16-119ADE50550A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95862F72-326D-47D2-9A16-119ADE50550A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A7C0DA6-9CA5-4F9F-B314-0847DB1030E0}
+	EndGlobalSection
+EndGlobal
